@@ -1,0 +1,782 @@
+[
+  {
+    "id": "1",
+    "firstName": "Jo",
+    "lastName": "Steuber",
+    "email": "Mathilde_Prohaska20@gmail.com",
+    "numberOfOrders": 8,
+    "amountSpent": {
+      "amount": 6343,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-04-07T13:56:08.450Z",
+    "tags": [],
+    "createdAt": "2025-05-15T14:02:36.798Z"
+  },
+  {
+    "id": "2",
+    "firstName": "Frank",
+    "lastName": "Friesen",
+    "email": "Dianna.Jaskolski30@yahoo.com",
+    "numberOfOrders": 10,
+    "amountSpent": {
+      "amount": 8221,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-04-07T20:13:42.237Z",
+    "tags": [],
+    "createdAt": "2025-09-06T17:59:20.220Z"
+  },
+  {
+    "id": "3",
+    "firstName": "Sara",
+    "lastName": "Schneider",
+    "email": "Magali12@yahoo.com",
+    "numberOfOrders": 4,
+    "amountSpent": {
+      "amount": 6690,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-03-19T00:52:07.862Z",
+    "tags": [
+      "Returning",
+      "VIP"
+    ],
+    "createdAt": "2026-04-12T21:56:31.225Z"
+  },
+  {
+    "id": "4",
+    "firstName": "Diane",
+    "lastName": "Hermann-Williamson",
+    "email": "Kennedi.Dickens@yahoo.com",
+    "numberOfOrders": 19,
+    "amountSpent": {
+      "amount": 6251,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-03-26T05:57:07.341Z",
+    "tags": [
+      "Returning",
+      "VIP"
+    ],
+    "createdAt": "2025-11-12T05:02:20.780Z"
+  },
+  {
+    "id": "5",
+    "firstName": "Reginald",
+    "lastName": "West",
+    "email": "Omar98@yahoo.com",
+    "numberOfOrders": 20,
+    "amountSpent": {
+      "amount": 1096,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-05-01T17:07:39.444Z",
+    "tags": [
+      "Returning"
+    ],
+    "createdAt": "2025-11-02T19:31:05.180Z"
+  },
+  {
+    "id": "6",
+    "firstName": "Aileen",
+    "lastName": "Herman",
+    "email": "Betty54@yahoo.com",
+    "numberOfOrders": 15,
+    "amountSpent": {
+      "amount": 1029,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-02-28T13:06:33.281Z",
+    "tags": [
+      "Wholesale"
+    ],
+    "createdAt": "2025-05-26T06:58:16.206Z"
+  },
+  {
+    "id": "7",
+    "firstName": "Pamela",
+    "lastName": "Champlin",
+    "email": "Christy_McCullough@hotmail.com",
+    "numberOfOrders": 13,
+    "amountSpent": {
+      "amount": 6238,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-04-16T22:29:28.568Z",
+    "tags": [],
+    "createdAt": "2025-09-28T09:41:54.241Z"
+  },
+  {
+    "id": "8",
+    "firstName": "Maggie",
+    "lastName": "Orn",
+    "email": "Patricia61@yahoo.com",
+    "numberOfOrders": 3,
+    "amountSpent": {
+      "amount": 4358,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-04-09T17:09:14.608Z",
+    "tags": [
+      "Wholesale"
+    ],
+    "createdAt": "2025-10-30T18:50:01.833Z"
+  },
+  {
+    "id": "9",
+    "firstName": "Katheryn",
+    "lastName": "Denesik",
+    "email": "Breanna_Harber94@gmail.com",
+    "numberOfOrders": 5,
+    "amountSpent": {
+      "amount": 460,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-02-24T00:52:49.297Z",
+    "tags": [
+      "Returning",
+      "Wholesale"
+    ],
+    "createdAt": "2025-08-08T11:19:05.023Z"
+  },
+  {
+    "id": "10",
+    "firstName": "Sammy",
+    "lastName": "Stark-Streich",
+    "email": "Leatha.Shanahan33@gmail.com",
+    "numberOfOrders": 9,
+    "amountSpent": {
+      "amount": 9825,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-04-18T21:50:53.774Z",
+    "tags": [
+      "Returning",
+      "Premium"
+    ],
+    "createdAt": "2025-10-23T21:06:23.053Z"
+  },
+  {
+    "id": "11",
+    "firstName": "Allison",
+    "lastName": "Cummerata",
+    "email": "Tammy_Stiedemann@yahoo.com",
+    "numberOfOrders": 2,
+    "amountSpent": {
+      "amount": 6212,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-04-05T03:52:05.769Z",
+    "tags": [],
+    "createdAt": "2025-09-01T03:11:18.208Z"
+  },
+  {
+    "id": "12",
+    "firstName": "Hector",
+    "lastName": "Fisher",
+    "email": "Royal.Harber17@gmail.com",
+    "numberOfOrders": 17,
+    "amountSpent": {
+      "amount": 1253,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-03-05T09:25:34.233Z",
+    "tags": [],
+    "createdAt": "2025-06-06T04:22:55.452Z"
+  },
+  {
+    "id": "13",
+    "firstName": "Joey",
+    "lastName": "Wiegand",
+    "email": "Louis24@gmail.com",
+    "numberOfOrders": 6,
+    "amountSpent": {
+      "amount": 777,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-02-08T06:04:42.466Z",
+    "tags": [],
+    "createdAt": "2025-10-04T04:01:46.950Z"
+  },
+  {
+    "id": "14",
+    "firstName": "Margaretta",
+    "lastName": "Osinski",
+    "email": "Nettie69@yahoo.com",
+    "numberOfOrders": 4,
+    "amountSpent": {
+      "amount": 2457,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-02-10T01:37:05.388Z",
+    "tags": [
+      "Wholesale"
+    ],
+    "createdAt": "2025-11-01T04:06:13.429Z"
+  },
+  {
+    "id": "15",
+    "firstName": "Kaycee",
+    "lastName": "Blanda",
+    "email": "Tyson_Conn74@hotmail.com",
+    "numberOfOrders": 4,
+    "amountSpent": {
+      "amount": 612,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-03-10T06:34:43.750Z",
+    "tags": [],
+    "createdAt": "2025-07-02T11:56:12.799Z"
+  },
+  {
+    "id": "16",
+    "firstName": "Jodi",
+    "lastName": "Wehner",
+    "email": "Lucie.Ferry76@hotmail.com",
+    "numberOfOrders": 20,
+    "amountSpent": {
+      "amount": 255,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-04-07T18:22:30.627Z",
+    "tags": [
+      "Wholesale"
+    ],
+    "createdAt": "2026-02-09T15:17:10.211Z"
+  },
+  {
+    "id": "17",
+    "firstName": "Sydnie",
+    "lastName": "Wyman",
+    "email": "Hazel_Kerluke@gmail.com",
+    "numberOfOrders": 7,
+    "amountSpent": {
+      "amount": 9705,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-04-03T16:00:28.077Z",
+    "tags": [
+      "Wholesale",
+      "Returning"
+    ],
+    "createdAt": "2025-05-29T18:53:12.554Z"
+  },
+  {
+    "id": "18",
+    "firstName": "Sigrid",
+    "lastName": "Hoppe",
+    "email": "Darby_Jerde@gmail.com",
+    "numberOfOrders": 8,
+    "amountSpent": {
+      "amount": 403,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-03-08T23:41:05.588Z",
+    "tags": [
+      "Wholesale"
+    ],
+    "createdAt": "2025-07-29T23:58:39.482Z"
+  },
+  {
+    "id": "19",
+    "firstName": "Lester",
+    "lastName": "Huels-Gutkowski",
+    "email": "Alice52@gmail.com",
+    "numberOfOrders": 1,
+    "amountSpent": {
+      "amount": 1133,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-02-17T17:16:36.092Z",
+    "tags": [
+      "Wholesale"
+    ],
+    "createdAt": "2025-08-15T02:00:27.625Z"
+  },
+  {
+    "id": "20",
+    "firstName": "Antonio",
+    "lastName": "Krajcik",
+    "email": "Devin_Erdman@hotmail.com",
+    "numberOfOrders": 2,
+    "amountSpent": {
+      "amount": 3491,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-04-27T09:38:22.039Z",
+    "tags": [],
+    "createdAt": "2025-09-10T15:36:23.026Z"
+  },
+  {
+    "id": "21",
+    "firstName": "Shawna",
+    "lastName": "Cremin",
+    "email": "Toby_OKon33@gmail.com",
+    "numberOfOrders": 9,
+    "amountSpent": {
+      "amount": 6184,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-02-16T17:03:29.837Z",
+    "tags": [
+      "VIP"
+    ],
+    "createdAt": "2026-02-12T05:44:55.239Z"
+  },
+  {
+    "id": "22",
+    "firstName": "Curtis",
+    "lastName": "Nader",
+    "email": "Felicia_Crooks55@gmail.com",
+    "numberOfOrders": 12,
+    "amountSpent": {
+      "amount": 9734,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-04-15T04:28:51.084Z",
+    "tags": [],
+    "createdAt": "2025-06-12T20:19:44.261Z"
+  },
+  {
+    "id": "23",
+    "firstName": "Leroy",
+    "lastName": "Tromp",
+    "email": "Kimberly_Kohler30@yahoo.com",
+    "numberOfOrders": 7,
+    "amountSpent": {
+      "amount": 4543,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-02-22T01:35:44.247Z",
+    "tags": [
+      "Returning"
+    ],
+    "createdAt": "2026-02-06T00:36:08.312Z"
+  },
+  {
+    "id": "24",
+    "firstName": "Nash",
+    "lastName": "Fisher",
+    "email": "Ona26@hotmail.com",
+    "numberOfOrders": 3,
+    "amountSpent": {
+      "amount": 3685,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-04-28T06:27:15.391Z",
+    "tags": [
+      "Returning",
+      "Premium"
+    ],
+    "createdAt": "2025-12-22T08:58:04.521Z"
+  },
+  {
+    "id": "25",
+    "firstName": "Allison",
+    "lastName": "Padberg",
+    "email": "Hollis_Satterfield97@gmail.com",
+    "numberOfOrders": 20,
+    "amountSpent": {
+      "amount": 6780,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-04-13T11:17:28.887Z",
+    "tags": [
+      "VIP"
+    ],
+    "createdAt": "2025-09-01T12:03:59.249Z"
+  },
+  {
+    "id": "26",
+    "firstName": "Janice",
+    "lastName": "Heidenreich",
+    "email": "Chaya_Cummings@yahoo.com",
+    "numberOfOrders": 6,
+    "amountSpent": {
+      "amount": 6392,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-02-18T14:59:38.568Z",
+    "tags": [],
+    "createdAt": "2025-12-11T15:52:38.759Z"
+  },
+  {
+    "id": "27",
+    "firstName": "Chase",
+    "lastName": "Carroll",
+    "email": "Rick_Rempel@yahoo.com",
+    "numberOfOrders": 11,
+    "amountSpent": {
+      "amount": 3592,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-02-08T09:44:00.384Z",
+    "tags": [
+      "Wholesale",
+      "VIP"
+    ],
+    "createdAt": "2025-05-09T07:03:25.439Z"
+  },
+  {
+    "id": "28",
+    "firstName": "Cameron",
+    "lastName": "Johnston",
+    "email": "Rhiannon16@gmail.com",
+    "numberOfOrders": 0,
+    "amountSpent": {
+      "amount": 1042,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-02-23T18:57:44.455Z",
+    "tags": [
+      "Wholesale"
+    ],
+    "createdAt": "2025-11-13T04:57:11.736Z"
+  },
+  {
+    "id": "29",
+    "firstName": "Jena",
+    "lastName": "Bartell",
+    "email": "Paul.Pollich@gmail.com",
+    "numberOfOrders": 2,
+    "amountSpent": {
+      "amount": 8704,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-04-08T14:41:50.081Z",
+    "tags": [],
+    "createdAt": "2026-04-25T10:52:54.266Z"
+  },
+  {
+    "id": "30",
+    "firstName": "Brendan",
+    "lastName": "Volkman",
+    "email": "Roberto92@yahoo.com",
+    "numberOfOrders": 13,
+    "amountSpent": {
+      "amount": 4102,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-04-01T20:03:05.818Z",
+    "tags": [],
+    "createdAt": "2025-11-16T15:45:56.828Z"
+  },
+  {
+    "id": "31",
+    "firstName": "Elmira",
+    "lastName": "Strosin",
+    "email": "Tremaine_Koelpin@gmail.com",
+    "numberOfOrders": 2,
+    "amountSpent": {
+      "amount": 8543,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-04-11T16:01:17.172Z",
+    "tags": [],
+    "createdAt": "2025-12-13T05:29:23.846Z"
+  },
+  {
+    "id": "32",
+    "firstName": "Stephen",
+    "lastName": "White",
+    "email": "Josiah2@hotmail.com",
+    "numberOfOrders": 7,
+    "amountSpent": {
+      "amount": 6822,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-04-07T20:06:42.838Z",
+    "tags": [
+      "Wholesale",
+      "Premium"
+    ],
+    "createdAt": "2025-07-29T18:02:41.107Z"
+  },
+  {
+    "id": "33",
+    "firstName": "Ben",
+    "lastName": "Ferry",
+    "email": "Javier_Weber7@hotmail.com",
+    "numberOfOrders": 10,
+    "amountSpent": {
+      "amount": 8357,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-04-23T14:19:15.132Z",
+    "tags": [
+      "Premium",
+      "VIP"
+    ],
+    "createdAt": "2025-10-05T08:38:23.854Z"
+  },
+  {
+    "id": "34",
+    "firstName": "Johnson",
+    "lastName": "Stamm",
+    "email": "Lynette.MacGyver1@gmail.com",
+    "numberOfOrders": 6,
+    "amountSpent": {
+      "amount": 6655,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-03-26T07:46:37.577Z",
+    "tags": [
+      "VIP",
+      "Premium"
+    ],
+    "createdAt": "2025-09-24T07:25:51.399Z"
+  },
+  {
+    "id": "35",
+    "firstName": "Manuela",
+    "lastName": "Hilpert",
+    "email": "Roy_Mitchell49@gmail.com",
+    "numberOfOrders": 7,
+    "amountSpent": {
+      "amount": 6249,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-05-07T02:59:36.272Z",
+    "tags": [],
+    "createdAt": "2026-03-12T00:49:24.884Z"
+  },
+  {
+    "id": "36",
+    "firstName": "Thurman",
+    "lastName": "Larson",
+    "email": "Emelia.Huel57@yahoo.com",
+    "numberOfOrders": 15,
+    "amountSpent": {
+      "amount": 9917,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-03-17T08:10:34.774Z",
+    "tags": [
+      "Wholesale",
+      "Returning"
+    ],
+    "createdAt": "2026-04-29T23:03:45.476Z"
+  },
+  {
+    "id": "37",
+    "firstName": "Camylle",
+    "lastName": "Herman",
+    "email": "Elva31@hotmail.com",
+    "numberOfOrders": 3,
+    "amountSpent": {
+      "amount": 2113,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-02-21T11:12:14.168Z",
+    "tags": [
+      "VIP"
+    ],
+    "createdAt": "2025-07-23T03:21:31.839Z"
+  },
+  {
+    "id": "38",
+    "firstName": "Cleveland",
+    "lastName": "Boehm",
+    "email": "Elnora.Mosciski13@gmail.com",
+    "numberOfOrders": 19,
+    "amountSpent": {
+      "amount": 5830,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-04-28T22:12:26.471Z",
+    "tags": [
+      "Returning"
+    ],
+    "createdAt": "2025-11-23T06:43:08.792Z"
+  },
+  {
+    "id": "39",
+    "firstName": "Sonny",
+    "lastName": "Effertz",
+    "email": "Taylor56@hotmail.com",
+    "numberOfOrders": 10,
+    "amountSpent": {
+      "amount": 9561,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-02-15T02:37:27.254Z",
+    "tags": [
+      "VIP",
+      "Premium"
+    ],
+    "createdAt": "2026-02-16T14:55:43.569Z"
+  },
+  {
+    "id": "40",
+    "firstName": "Edwin",
+    "lastName": "Gerhold",
+    "email": "Darrel_Homenick@gmail.com",
+    "numberOfOrders": 3,
+    "amountSpent": {
+      "amount": 2440,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-05-06T03:30:27.154Z",
+    "tags": [],
+    "createdAt": "2025-07-16T20:58:37.250Z"
+  },
+  {
+    "id": "41",
+    "firstName": "Maxine",
+    "lastName": "Powlowski",
+    "email": "Joel4@gmail.com",
+    "numberOfOrders": 20,
+    "amountSpent": {
+      "amount": 5096,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-04-11T06:37:10.128Z",
+    "tags": [],
+    "createdAt": "2025-11-29T21:00:49.705Z"
+  },
+  {
+    "id": "42",
+    "firstName": "Laurence",
+    "lastName": "Roberts",
+    "email": "Dannie13@yahoo.com",
+    "numberOfOrders": 6,
+    "amountSpent": {
+      "amount": 462,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-03-14T03:49:26.278Z",
+    "tags": [
+      "Premium",
+      "Returning"
+    ],
+    "createdAt": "2025-06-16T09:54:10.522Z"
+  },
+  {
+    "id": "43",
+    "firstName": "Hubert",
+    "lastName": "Rodriguez",
+    "email": "Sara.Swaniawski@hotmail.com",
+    "numberOfOrders": 15,
+    "amountSpent": {
+      "amount": 5444,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-03-17T16:19:29.267Z",
+    "tags": [],
+    "createdAt": "2025-08-10T21:58:55.639Z"
+  },
+  {
+    "id": "44",
+    "firstName": "Madaline",
+    "lastName": "Schmeler",
+    "email": "Heather_Fisher59@yahoo.com",
+    "numberOfOrders": 5,
+    "amountSpent": {
+      "amount": 6748,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-04-27T05:05:19.369Z",
+    "tags": [
+      "Premium",
+      "VIP"
+    ],
+    "createdAt": "2025-08-19T07:32:21.774Z"
+  },
+  {
+    "id": "45",
+    "firstName": "Toni",
+    "lastName": "Altenwerth",
+    "email": "Julia_Goldner74@hotmail.com",
+    "numberOfOrders": 1,
+    "amountSpent": {
+      "amount": 5984,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-05-06T23:46:08.884Z",
+    "tags": [
+      "Premium",
+      "VIP"
+    ],
+    "createdAt": "2026-01-23T09:16:52.315Z"
+  },
+  {
+    "id": "46",
+    "firstName": "Lindsey",
+    "lastName": "Berge-Murazik",
+    "email": "Leticia43@yahoo.com",
+    "numberOfOrders": 9,
+    "amountSpent": {
+      "amount": 3865,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-02-22T12:32:41.681Z",
+    "tags": [
+      "Wholesale"
+    ],
+    "createdAt": "2025-06-19T17:05:30.442Z"
+  },
+  {
+    "id": "47",
+    "firstName": "Toney",
+    "lastName": "Hayes",
+    "email": "Ryder_Smitham98@hotmail.com",
+    "numberOfOrders": 17,
+    "amountSpent": {
+      "amount": 1730,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-05-02T22:39:18.692Z",
+    "tags": [],
+    "createdAt": "2025-05-15T03:21:19.431Z"
+  },
+  {
+    "id": "48",
+    "firstName": "Justice",
+    "lastName": "Feest",
+    "email": "Darrin.Hilll-Anderson@yahoo.com",
+    "numberOfOrders": 8,
+    "amountSpent": {
+      "amount": 4488,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-02-19T01:28:31.964Z",
+    "tags": [
+      "VIP"
+    ],
+    "createdAt": "2025-07-13T11:50:36.284Z"
+  },
+  {
+    "id": "49",
+    "firstName": "Gilbert",
+    "lastName": "Herzog",
+    "email": "Grace17@yahoo.com",
+    "numberOfOrders": 0,
+    "amountSpent": {
+      "amount": 7951,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-04-03T03:40:31.672Z",
+    "tags": [
+      "Wholesale"
+    ],
+    "createdAt": "2026-04-02T03:57:28.279Z"
+  },
+  {
+    "id": "50",
+    "firstName": "Marlon",
+    "lastName": "Dibbert",
+    "email": "Ken.Turcotte@hotmail.com",
+    "numberOfOrders": 2,
+    "amountSpent": {
+      "amount": 1817,
+      "currencyCode": "INR"
+    },
+    "lastOrderDate": "2026-05-01T16:14:48.612Z",
+    "tags": [
+      "VIP",
+      "Returning"
+    ],
+    "createdAt": "2025-12-19T05:42:37.820Z"
+  }
+]
