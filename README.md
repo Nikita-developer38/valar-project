@@ -49,3 +49,48 @@ project/
 │
 └── fixture/
     └── customer.json
+
+```
+
+# Installation
+
+## Clone Repository
+```bash
+git clone https://github.com/Nikita-developer38/valar-project.git
+```
+
+## Backend Setup
+```bash
+cd backend
+npm install
+npm run dev
+```
+Backend Runs on:
+```bash
+http://localhost:4000
+```
+
+## Frontend Setup
+```bash
+cd frontend
+npm install
+npm run dev
+```
+Frontend Runs on:
+```bash
+http://localhost:5173
+```
+
+# Generate Mock Customer Data
+```bash
+cd backend
+npx tsx scripts/generateCustomers.ts
+```
+
+## This will generate mock data
+```bash
+fixture/customer.json
+```
+
+# Author
+Built by Nikita Murmure
